@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML bug related to broken image sources and its solution. The bug manifests as unexpected behavior in browsers when an image element references a non-existent or inaccessible source.  The solution provides robust handling of such scenarios using the `onerror` event handler and provides fallback images.
